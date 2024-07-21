@@ -1,0 +1,2 @@
+requests==2.32.3
+./wheels/python_blizzardapi-1.3.0-py3-none-any.whl
